@@ -2,10 +2,10 @@
 import React, { Component } from 'react';
 
 import AppHeader from "../app-header/app-header.jsx"
-import TodoList from '../todo-list';
-import SearchPanel from '../search-panel';
-import ItemStatusFilter from '../item-status-filter';
-import ItemAddForm from '../item-add-form';
+import TodoList from '../todo-list/todo-list.jsx';
+import SearchPanel from '../search-panel/search-panel.jsx';
+import ItemStatusFilter from '../item-status-filter/item-status-filter.jsx';
+import ItemAddForm from '../item-add-form/item-add-form.jsx';
 
 import './app.css';
 
